@@ -55,3 +55,22 @@
     width: 40px;
     height: 40px;
 }
+
+/* 6 ESERCIZIO */
+
+
+
+.ex-6-img:hover {
+    filter: grayscale(0.8);
+}
+
+/* 7 ESERCIZIO */
+
+.ex-7-img {
+    transition: 2s;
+}
+
+.ex-7-img:hover {
+    filter:drop-shadow(2);
+    filter: saturate(2);
+}
